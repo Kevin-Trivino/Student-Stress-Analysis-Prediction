@@ -2,9 +2,10 @@
 Analysis on the factors influencing stress levels in students.
 Performed using python to find insights on the facotrs and develop models predicting stress levels.
 
-- WHat is the distribution of stress levels among students?
+- What is the distribution of stress levels among students?
 - Which factors have the biggest impact stress?
 - Which facotrs do students tend to have the most issues with?
+- Are there any correlations between factors?
 
 - Random Forest Accuracy: 0.87
 
