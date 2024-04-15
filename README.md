@@ -7,7 +7,7 @@ Performed using python to find insights on the facotrs and develop models predic
 - Which facotrs do students tend to have the most issues with?
 - Are there any correlations between factors?
 
-- Random Forest Accuracy: 0.87
+- Random Forest Accuracy: 0.88
 
 ## StressLevelDataset.csv
 - Data collected from highschool and university students.
