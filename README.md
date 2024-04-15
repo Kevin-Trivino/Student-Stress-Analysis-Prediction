@@ -11,9 +11,10 @@ Performed using python to find insights on the facotrs and develop models predic
 
 ## StressLevelDataset.csv
 - Data collected from highschool and university students.
-- Most variables are on a 5 level likert scale
-- Anxiety, self esteem, depressioon have larger ranges 
-- Mental helath history binary
-- Blood pressure scale 1-3
+- Most variables are on a 5 level likert scale.
+- Anxiety, self esteem, depressioon have larger ranges.
+- Mental helath history is binary.
+- Blood pressure on a scale 1-3.
 - Target variable stress level is on a scale 1-3
+  
 The original dataset can be found here https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis where the author responds to any specific questions you may have about the dataset.
