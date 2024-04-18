@@ -7,6 +7,11 @@ Performed using python to find insights on the facotrs and develop models predic
 - Which facotrs do students tend to have the most issues with?
 - Are there any correlations between factors?
 
+## stress-factors-analysis.ipynb
+Jupyter Notebook containg full analysis along with comments and insigths througout.
+
+Original Post: https://www.kaggle.com/code/xkevnx/student-stress-factors-analysis
+
 - Random Forest Accuracy: 0.88
 
 ## StressLevelDataset.csv
