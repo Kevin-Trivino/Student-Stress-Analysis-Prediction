@@ -1,3 +1,5 @@
+For easier viewing and discussion of the analysis visit original post on Kaggle: https://www.kaggle.com/code/xkevnx/student-stress-factors-analysis
+
 # Stress-Factors-Analysis
 Analysis on the factors influencing stress levels in students.
 Performed using python to find insights on the facotrs and develop models predicting stress levels.
@@ -9,8 +11,6 @@ Performed using python to find insights on the facotrs and develop models predic
 
 ## stress-factors-analysis.ipynb
 Jupyter Notebook containg full analysis along with comments and insigths througout.
-
-Original Post: https://www.kaggle.com/code/xkevnx/student-stress-factors-analysis
 
 - Random Forest Accuracy: 0.88
 
