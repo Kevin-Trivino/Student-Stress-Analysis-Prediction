@@ -18,7 +18,7 @@ Jupyter Notebook containg full analysis along with comments and insigths througo
 ## StressLevelDataset.csv
 - Data collected from highschool and university students.
 - Most variables are on a 5 level likert scale.
-- Anxiety, self esteem, depressioon have larger ranges.
+- Anxiety, self esteem, depressioon have larger ranges based on official medical metrics.
 - Mental helath history is binary.
 - Blood pressure on a scale 1-3.
 - Target variable stress level is on a scale 1-3
