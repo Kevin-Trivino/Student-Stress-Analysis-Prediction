@@ -12,7 +12,8 @@ Performed using python to find insights on the facotrs and develop models predic
 ## stress-factors-analysis.ipynb
 Jupyter Notebook containg full analysis along with comments and insigths througout.
 
-- Random Forest Accuracy: 0.88
+- Models Trained: KNN, Decision Tree, Random Forest, SVM
+- Final Model: SVM Accuracy: 0.92
 
 ## StressLevelDataset.csv
 - Data collected from highschool and university students.
