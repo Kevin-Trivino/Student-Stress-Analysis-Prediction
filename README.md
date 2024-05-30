@@ -13,7 +13,7 @@ Performed using python to find insights on the facotrs and develop models predic
 Jupyter Notebook containg full analysis along with comments and insigths througout.
 
 - Models: KNN, Decision Tree, Random Forest, SVM
-- Final Model: SVM 
+- Best Model: SVM 
 
 ## StressLevelDataset.csv
 - Data collected from highschool and university students.
