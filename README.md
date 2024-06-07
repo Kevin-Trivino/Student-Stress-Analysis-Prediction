@@ -2,7 +2,7 @@ For easier viewing and discussion of the analysis visit original post on Kaggle:
 
 # Stress-Factors-Analysis
 Analysis on the factors influencing stress levels in students.
-Performed using python to find insights on the facotrs and develop models predicting stress levels.
+Develop models predicting stress levels.
 
 - What is the distribution of stress levels among students?
 - Which factors have the biggest impact stress?
