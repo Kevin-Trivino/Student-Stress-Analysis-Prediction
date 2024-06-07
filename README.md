@@ -11,7 +11,7 @@ Performed using python to find insights on the facotrs and develop models predic
 
 ## stress-factors-analysis.ipynb
 Jupyter Notebook containg full analysis along with comments and insigths througout.
-
+- Language: Python
 - Models: KNN, Decision Tree, Random Forest, SVM
 - Best Model: SVM 
 
