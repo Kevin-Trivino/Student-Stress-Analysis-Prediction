@@ -1,12 +1,12 @@
 For easier viewing and discussion of the analysis visit original post on Kaggle: https://www.kaggle.com/code/xkevnx/student-stress-factors-analysis
 
 # Stress-Factors-Analysis
-Analysis on the factors influencing stress levels in students.
-Develop models predicting stress levels.
+This project aims to analyze factors influencing stress levels in students and to develop models predicting stress levels.
+Some quesitons answered:
 
 - What is the distribution of stress levels among students?
 - Which factors have the biggest impact stress?
-- Which facotrs do students tend to have the most issues with?
+- Which factors do students tend to have the most issues with?
 - Are there any correlations between factors?
 
 ## stress-factors-analysis.ipynb
