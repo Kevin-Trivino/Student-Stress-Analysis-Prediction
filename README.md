@@ -1,4 +1,4 @@
-For easier viewing and discussion of the notebook visit original post on Kaggle: [https://www.kaggle.com/code/xkevnx/student-stress-factors-analysis](https://www.kaggle.com/code/xkevnx/stress-factors-analysis-and-predictions)
+For easier viewing and discussion of the notebook visit the original post on Kaggle: [https://www.kaggle.com/code/xkevnx/student-stress-factors-analysis](https://www.kaggle.com/code/xkevnx/stress-factors-analysis-and-predictions)
 
 # Student-Stress-Analysis-Prediction
 This project aims to analyze factors influencing stress levels in students and to develop models predicting stress levels.
