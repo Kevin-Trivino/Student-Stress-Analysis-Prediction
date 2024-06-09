@@ -1,6 +1,6 @@
 For easier viewing and discussion of the analysis visit original post on Kaggle: [https://www.kaggle.com/code/xkevnx/student-stress-factors-analysis](https://www.kaggle.com/code/xkevnx/stress-factors-analysis-and-predictions)
 
-# Student-Stress-Factors
+# Student-Stress-Analysis-Prediction
 This project aims to analyze factors influencing stress levels in students and to develop models predicting stress levels.
 Some quesitons answered:
 
@@ -9,7 +9,7 @@ Some quesitons answered:
 - Which factors do students tend to have the most issues with?
 - Are there any correlations between factors?
 
-## stress-factors-analysis-and-predictions.ipynb
+## student-stress.ipynb
 Jupyter Notebook containg full analysis along with comments and insigths througout.
 - Language: Python
 - Models: KNN, Decision Tree, Random Forest, SVM
