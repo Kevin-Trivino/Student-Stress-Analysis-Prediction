@@ -12,6 +12,7 @@ Some quesitons answered:
 ## student-stress.ipynb
 Jupyter Notebook containg full analysis along with comments and insigths througout.
 - Language: Python
+- PCA and Factor Analysis
 - Models: KNN, Decision Tree, Random Forest, SVM
 - Best Model: SVM 
 
