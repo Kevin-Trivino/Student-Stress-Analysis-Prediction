@@ -7,7 +7,7 @@ Some quesitons answered:
 - What is the distribution of stress levels among students?
 - Which factors have the biggest impact on stress?
 - Which factors do students report having the most issues with?
-- Are there any correlations between factors?
+- Is there any correlations between factors?
 
 ## student-stress.ipynb
 Jupyter Notebook containg full analysis along with comments and insigths througout.
